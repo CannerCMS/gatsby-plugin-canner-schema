@@ -14,7 +14,7 @@
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-0": "^6.24.1",
-    "canner-schema-loader": "^1.2.3"
+    "canner-schema-loader": "1.2.4"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

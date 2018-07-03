@@ -1493,9 +1493,9 @@ canner-image-gallery@^0.1.3:
     react-loading-image "^0.3.0"
     styled-components "^3.2.3"
 
-canner-schema-loader@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/canner-schema-loader/-/canner-schema-loader-1.2.2.tgz#825246c79d76cd8a87cad28f650a0761ebb9a902"
+canner-schema-loader@1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/canner-schema-loader/-/canner-schema-loader-1.2.4.tgz#d3a144bbbc0b04e487f031fef11469a352ee7fde"
   dependencies:
     "@canner/antd-array-gallery" "0.1.35"
     "@canner/antd-array-panel" "0.1.35"
