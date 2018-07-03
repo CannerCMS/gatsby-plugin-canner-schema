@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-canner-schema",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Canner schema Gatsby plugin",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "babel-plugin-import": "^1.8.0",
+    "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.7.0",
+    "babel-plugin-import": "^1.8.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "canner-schema-loader": "1.2.4"
